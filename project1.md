@@ -2,6 +2,7 @@
 ## AUX PROJECT1: Onboarding of 20 users using Shell Scripting
 
 1. Launch an EC2 t2 micro ubuntu Linux instance on AWS Cloud.
+
 ![Launch an EC2 instance](./images/ec2-instance.jpg)
 
 2. Connect to the instance from the terminal.
